@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "David Martinez, Launches Site"
+title: "David Martinez, My first Blog"
 date: 2018-09-20
 ---
 
