@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "David Martinez"
+title: "David Martinez, Launches Site"
 date: 2018-09-20
 ---
 
-This is my learning blog
+In class today our teacher tought us how to make our own website.
