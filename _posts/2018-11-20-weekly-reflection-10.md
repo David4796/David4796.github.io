@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "David Martinez, My first Blog"
-date: 2018-09-21
+title: "David Martinez, My Tenth Blog"
+date: 2018-11-20
 ---
 
-[A Picture Of my game so far](/WeScheme/Image (4).png
+
+![Screenshot of my game](images/WeScheme Image (4).png)
