@@ -5,5 +5,5 @@ date: 2018-11-20
 ---
 
 
-![Screenshot of my game](/images/VideoGameScreenShot.png)
+![Screenshot of my game](/images/Video Game ScreenShot.png)
 
