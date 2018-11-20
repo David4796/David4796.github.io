@@ -4,3 +4,4 @@ title: "David Martinez, My first Blog"
 date: 2018-09-21
 ---
 
+[A Picture Of my game so far](/WeScheme/Image (4).png
