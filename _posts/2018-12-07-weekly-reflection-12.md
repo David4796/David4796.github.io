@@ -5,7 +5,7 @@ date: 2018-12-07
 ---
 
 #Part 1-My Flag:
-The Flag I chose was the United Kingdom Flag to make a flag collage out of. The United Kingdom Flag includes many shapes in it like four triangles, a red "X",and a red cross. Each one of these shapes needs to be in a specific size and order so that it looks like the way I want it to
+The Flag I chose was the United Kingdom Flag also known as Union Jack to make a flag collage out of. The United Kingdom Flag includes many shapes in it like four triangles, a red "X",and a red cross. Each one of these shapes needs to be in a specific size and order so that it looks like the way I want it to. Believe it or not there are three different flags in the United Kingdom Flag the first one is the flag from Sotland the second one is from North Ireland and the last one is from England of corse all of these 
 
 ![United Kingdom Flag](/images/UnitedKingdomFlag.jpg)
 
