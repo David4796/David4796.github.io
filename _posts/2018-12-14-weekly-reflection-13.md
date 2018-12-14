@@ -23,4 +23,4 @@ The Final product of the United Kingdom Flag coding
 ![FlagImage](/images/flagV2.png)
 
 My Reflection:
-Some challenges I faced while making the United Kingdom Flag on WeSheme was trying to 
+Some challenges I faced while making the United Kingdom Flag on WeSheme was trying to find the right positions and angles for all the shapes that make up the United kingdom Flag. I look forward to finding out how I will be able to scale
