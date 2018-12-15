@@ -16,11 +16,11 @@ The United Kingdom Flag code so far:
 
 (rotate 390(rectangle 300 30 "solid" "red"))
 
-(put-image(rotate 90(rectangle 600 55 "solid" "red")) 250 150 (put-image(rotate 0(rectangle 600 50 "solid" "red")) 250 140 (put-image(rotate 90(rectangle 700 95 "solid" "white")) 250 150 (put-image(rotate 0(rectangle 700 85 "solid" "white")) 250 140 (put-image(rotate 150(rectangle 250 20 "solid" "red")) 100 230 (put-image(rotate 150(rectangle 250 20 "solid" "red")) 420 60 (put-image(rotate 390(rectangle 370 20 "solid" "red")) 350 210 (put-image(rotate 390(rectangle 370 20 "solid" "red")) 40 20 (put-image(rotate 150(rectangle 600 50 "solid" "white")) 250 150 (put-image(rotate 390(rectangle 600 50 "solid" "white"))250 150 (rectangle 500 300 "solid" "blue")))))))))))```
+(put-image(rotate 90(rectangle 600 55 "solid" "red")) 250 150 (put-image(rotate 0(rectangle 600 50 "solid" "red")) 250 140 (put-image(rotate 90(rectangle 700 95 "solid" "white"))250 150(put-image (rectangle 700 85 "solid" "white")250 140 (put-image(rotate 150(rectangle 250 20 "solid" "red"))100 230(put-image(rotate 150(rectangle 250 20 "solid" "red"))420 60 (put-image(rotate 390(rectangle 370 20 "solid" "red")) 350 210(put-image(rotate 390(rectangle 370 20 "solid" "red")) 40 20 (put-image(rotate 150(rectangle 600 50 "solid" "white")) 250 150 (put-image(rotate 390(rectangle 600 50 "solid" "white")) 250 150 (rectangle 500 300 "solid" "blue")))))))))))```
 
 The Final product of the United Kingdom Flag coding
 
 ![FlagImage](/images/flagV2.png)
 
 My Reflection:
-Some challenges I faced while making the United Kingdom Flag on WeSheme was trying to find the right positions and angles for all the shapes that make up the United kingdom Flag. I look forward to finding out how I will be able to scale
+There were many challenges I faced while making the United Kingdom Flag on WeSheme one of them was trying to find the right positions and angles for all the shapes that make up the United kingdom Flag. Another challenge I faced was figuring out what shapes went on the bottom and which ones were on the top. Something I look forward too next week is finding out how I will be able to scale my flag just by changing one number.
