@@ -4,15 +4,12 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## The United Kingdom Flag
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
-I designed a Program to make the flag of the United kingdom
--   What grade do you expect? _then delete this instruction_
-To be honest I will probably get a grade of 2 or above because I was able to to make the United Kngdom Flag but have yet to be able to find out how to scale it
-<!--- Delete this comment and add your writing -->
+I designed a Program to make the flag of the United kingdom.To be honest I will probably get a grade of 2 or above because I was able to to make the United Kngdom Flag but have yet to be able to find out how to scale it
+
 
 ## Current output
 
