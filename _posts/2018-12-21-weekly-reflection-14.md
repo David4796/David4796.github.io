@@ -24,6 +24,7 @@ I designed a Program to make the flag of the United kingdom.To be honest I will 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
 <!--- Delete this comment and add your writing -->
+ 
 
 
 ## Explain your code.
