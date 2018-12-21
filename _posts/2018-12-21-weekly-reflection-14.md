@@ -8,7 +8,7 @@ date: 2018-12-21
 
 ## Describe your program
 
-I designed a Program to make the flag of the United kingdom.To be honest I will probably get a grade of 2 or above because I was able to to make the United Kngdom Flag but have yet to be able to find out how to scale it
+I designed a Program to make the flag of the United kingdom.To be honest I will probably get a grade of 2 or above because I was able to to make the United Kngdom Flag and was able to find a way to scale.
 
 
 ## Current output
@@ -55,11 +55,52 @@ Some advise a student gave me that helped me make the United Kingdom Flag was to
 -   Explain the code you posted by telling us about each argument.
 -   Then tell us how your code section fits into the whole.
  
-<!--- Delete this comment and add your writing -->
+<!--- hi -->
 
 
 ## Program code
 
 ```
-Insert entire program here _then delete this instruction_
+(define size 100)
+
+(define width (* 5 size))                    
+(define height (* 3 size))
+
+(define w2 (* 2.5 size)) (define h2 (* .2 size))
+
+(define w3 (* 6 size)) (define h3 (* .55 size))
+
+(define w4 (* 6 size)) (define h4 (* .5 size))
+
+(define w5 (* 7 size)) (define h5 (* .85 size))
+
+(define w7 (* 2.5 size)) (define h7 (* .2 size))
+
+(define w8 (* 3.7 size)) (define h8 (* .2 size))              
+             
+(define X (* 2.5 size))
+(define Y (* 1.5 size)) (define Y2 (* 1.5 size))
+
+(define X3 (* 1 size)) (define Y3 (* 2.3 size))
+
+(define X4 (* 4.2 size)) (define Y4 (* .6 size))
+
+(define X5 (* .41 size)) (define Y5 (* .2 size))
+
+(define X6 (* 3.79 size)) (define Y6(* 2.3 size))
+
+;United Kingdom flag 
+;red cross
+(put-image(rotate 90(rectangle w3 h3 "solid" "red")) X Y (put-image(rectangle w4 h4 "solid" "red") X Y2
+;white cross                                                                        
+(put-image(rotate 90(rectangle w5 h5 "solid" "white")) X Y (put-image(rectangle w5 h5 "solid" "white") X Y2 
+;top left and bottom right                                                                        
+(put-image(rotate 150(rectangle w7 h7 "solid" "red"))X3 Y3(put-image(rotate 150(rectangle w7 h7 "solid" "red")) X4 Y4 
+
+                                                                               ;top right and bottom left                                                         
+(put-image(rotate 390(rectangle w8 h8 "solid" "red")) X6 Y6 (put-image(rotate 391(rectangle w8 h8 "solid" "red")) X5 Y5 
+;white X                                                                        
+(put-image(rotate 150(rectangle w4 h4 "solid" "white")) X Y (put-image(rotate 390(rectangle w4 h4 "solid" "white")) X Y 
+                                                                           
+(rectangle width height "solid" "blue")))))))))))
 ```
