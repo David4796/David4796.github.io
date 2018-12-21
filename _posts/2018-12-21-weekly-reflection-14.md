@@ -86,17 +86,10 @@ In these lines of code as you can see I defined size as 100 meaning that everyti
 (define X6 (* 3.79 size)) (define Y6(* 2.3 size))
 
 ;United Kingdom flag 
-;red cross
-(put-image(rotate 90(rectangle w3 h3 "solid" "red")) X Y (put-image(rectangle w4 h4 "solid" "red") X Y2
-;white cross                                                                        
-(put-image(rotate 90(rectangle w5 h5 "solid" "white")) X Y (put-image(rectangle w5 h5 "solid" "white") X Y2 
-;top left and bottom right                                                                        
-(put-image(rotate 150(rectangle w7 h7 "solid" "red"))X3 Y3(put-image(rotate 150(rectangle w7 h7 "solid" "red")) X4 Y4 
-
-                                                                               ;top right and bottom left                                                         
-(put-image(rotate 390(rectangle w8 h8 "solid" "red")) X6 Y6 (put-image(rotate 391(rectangle w8 h8 "solid" "red")) X5 Y5 
-;white X                                                                        
+(put-image(rotate 90(rectangle w3 h3 "solid" "red")) X Y (put-image(rectangle w4 h4 "solid" "red") X Y2                                                                      
+(put-image(rotate 90(rectangle w5 h5 "solid" "white")) X Y (put-image(rectangle w5 h5 "solid" "white") X Y2                                                                        
+(put-image(rotate 150(rectangle w7 h7 "solid" "red"))X3 Y3(put-image(rotate 150(rectangle w7 h7 "solid" "red")) X4 Y4                                                        
+(put-image(rotate 390(rectangle w8 h8 "solid" "red")) X6 Y6 (put-image(rotate 391(rectangle w8 h8 "solid" "red")) X5 Y5                                                                        
 (put-image(rotate 150(rectangle w4 h4 "solid" "white")) X Y (put-image(rotate 390(rectangle w4 h4 "solid" "white")) X Y 
-                                                                           
 (rectangle width height "solid" "blue")))))))))))
 ```
