@@ -26,10 +26,6 @@ Some advise a student gave me that helped me make the United Kingdom Flag was to
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
-
 * * *
 
 ```
@@ -55,7 +51,7 @@ Some advise a student gave me that helped me make the United Kingdom Flag was to
 -   Explain the code you posted by telling us about each argument.
 -   Then tell us how your code section fits into the whole.
  
-<!--- hi -->
+In these lines of code as you can see I defined size as 100 meaning that everytime I use size in an expression the computer will read it as 100. To scale my flag all I would have to do is change 100 to whatever number I want and that will either increase or decrease the size of the flag since it is multiplying a number I want the shape to be by size(which can be any number I want it to be) it will change the flag to be how I wnat it to be.
 
 
 ## Program code
