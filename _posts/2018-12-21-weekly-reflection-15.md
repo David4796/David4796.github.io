@@ -33,6 +33,7 @@ This is my update-player function with its contract, purpose statement, examples
 (EXAMPLE (update-player 600 900 "left") (make-posn 500 900))
 
 0.; update-player : Number String Number String -> Number Number
+
 1.(define (update-player x y key) 
 2.  (cond
 3.    [(string=? key    "up")  (make-posn  x (+ y 100))]
